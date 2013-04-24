@@ -1,7 +1,6 @@
 /.settings
 /.classpath
 /.project
-/docroot\WEB-INF/classes
-/docroot\WEB-INF\lib/portal-compat-client.jar
-/docroot\WEB-INF\lib/portal-compat-client.jar
-/docroot\WEB-INF/classes
+/docroot/WEB-INF/classes
+/docroot/WEB-INF/lib/portal-compat-client.jar
+
